@@ -34,7 +34,7 @@ description:           >
 #  - tagline:             "Example"
 #  - tagline:             "Example2"
   
-tagline:                "Freelancer : Maker : Human"
+tagline:                "Freelancer : Maker : Human  "
 #tagline:                "Freelancerrr : Maker : Human \n 👉 💡"
 
 
@@ -57,15 +57,12 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             "👉 💡"
-  - title:             ""
-  
-  
-  
-  - title:             "Examples"
+#  - title:             ""
+  - title:             "Contact"
     url:               /example/
-  - title:             Documentation
+  - title:             Projects
     url:               /docs/
-  - title:             About
+  - title:             About & CV
     url:              /about/
 
 # Add links to the footer.
