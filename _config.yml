@@ -23,7 +23,7 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Tami Bar
+title:                 Tami Bar PO
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
   Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
