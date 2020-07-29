@@ -17,7 +17,7 @@ redirect_from:
 
 <!--author-->
 
-## Hydejack TAMI BAR
+## Hydejack TAMI BAR EMBEDED
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
