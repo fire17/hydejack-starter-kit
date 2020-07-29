@@ -9,8 +9,8 @@ redirect_from:
   - /download/
 ---
 
-<p><object data="https://www.google.com&output=embed" width="600" height="400">
-    <embed src="https://www.google.com&output=embed" width="600" height="400" /> 
+<p><object data="https://www.google.com&output=embed" width="1000" height="1000">
+    <embed src="https://www.google.com&output=embed" width="1000" height="1000" /> 
     Error: Embedded data could not be displayed.</object></p>
 
 # About
