@@ -9,17 +9,9 @@ redirect_from:
   - /download/
 ---
 
-<httpProtocol>
-    <customHeaders>
-      <add name="X-Frame-Options" value="*" />
-    </customHeaders>
-</httpProtocol>
-
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://google.com/"></iframe>
-
-<iframe src="target_url.php" width="600" height="971" frameborder="0" ></iframe>
-
-
+<p><object data="https://www.google.com" width="600" height="400">
+    <embed src="https://www.google.com" width="600" height="400" /> 
+    Error: Embedded data could not be displayed.</object></p>
 
 # About
 
