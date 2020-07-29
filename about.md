@@ -8,14 +8,17 @@ hide_description: true
 redirect_from:
   - /download/
 ---
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://google.com"></iframe>
+
+
+<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://google.com/"></iframe>
+
 
 
 # About
 
 <!--author-->
 
-## Hydejack
+## Hydejack TAMI BAR
 
 A boutique Jekyll theme for hackers, nerds, and academics.  
 {:.lead}
