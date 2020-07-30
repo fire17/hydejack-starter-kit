@@ -35,7 +35,7 @@ description:            "👉 💡"
 #  - tagline:             "Example2"
   
 tagline:                >
-  Freelancer : **Maker** : Human ⠀⠀⠀⠀⠀⠀⠀ <span style="font-size:larger;">**👉 💡**</span> ⠀⠀⠀⠀⠀⠀ ⠀
+  Freelancer : **Maker** : Human ⠀⠀⠀⠀⠀⠀⠀ <span style="font-size:larger;">**👉 💡**</span> ⠀⠀⠀⠀⠀ ⠀
 #tagline:               "Freelancer : Maker : Human  "
 
 
@@ -61,7 +61,7 @@ menu:
 #    url:               /index.html
   - title:             "Contact"
     url:               /example/
-  - title:             "**◦** ånändâ projects **◦**"
+  - title:             "◦ ånändâ projects **◦** "
     url:               /docs/
   - title:             About
     url:               /about/
