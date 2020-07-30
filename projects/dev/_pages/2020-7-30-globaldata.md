@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: GlobalData + XObject
 description: >
   Highest level environment imaginable 
