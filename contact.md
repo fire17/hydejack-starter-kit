@@ -11,7 +11,7 @@ hide_description: true
 <!--author-->
 <br/>
 
-## [Thanks for reaching out :)](//rebrand.ly/contact/tami){:target="_blank"}
+## Thanks for reaching out :)
 #### please feel free to contact me on:
 * [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
 * **<a href="mailto:tami@akeyo.io" target="_blank">tami@akeyo.io</a>**<br/>
