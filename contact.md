@@ -12,11 +12,15 @@ hide_description: true
 <br/>
 
 ## Thanks for reaching out :)
-please feel free to contact me on [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
-email me at <a href="mailto:tami@akeyo.io" target="_blank">tami@akeyo.io</a><br/>
-or come visit here in [Harsuf]{:.heading.flip-title} <br/>
+#### please feel free to contact me on:
+* [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
+* **<a href="mailto:tami@akeyo.io" target="_blank">tami@akeyo.io</a>**<br/>
+* Come visit here in [Harsuf]{:.heading.flip-title} <br/>
 
 
+
+
+if you want a site like this one,
 
 
 [Harsuf]: /Harsuf.md
