@@ -15,13 +15,15 @@ hide_description: true
 #### please feel free to contact me on:
 * [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
 * **<a href="mailto:tami@akeyo.io" target="_blank">tami@akeyo.io</a>**<br/>
-* Come visit here in [Harsuf]{:.heading.flip-title} <br/>
+* Come visit here in [**Harsuf**]{:.heading.flip-title} <br/>
 
 
+<br/><br/>
+<a href='whatsapp://send?text=Text to send withe message: http://www.yoursite.com'>whatsApp</a>
 
 
 if you want a site like this one,
-
+<br/><br/>
 
 [Harsuf]: /Harsuf.md
 
