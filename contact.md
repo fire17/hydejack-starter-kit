@@ -8,13 +8,15 @@ hide_description: true
 
 # Get in touch 💜&#xFE0E;
 
+<!--author-->
+<br/>
 
 ## Thanks for reaching out :)
 please feel free to contact me on [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
 email me at <a href="mailto:tami@akeyo.io" target="_blank">tami@akeyo.io</a><br/>
-or come visit [Harsuf]{:.heading.flip-title} <br/>
+or come visit here in [Harsuf]{:.heading.flip-title} <br/>
 
-<!--author-->
+
 
 
 [Harsuf]: /Harsuf.md
