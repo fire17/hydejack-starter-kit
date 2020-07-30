@@ -25,7 +25,7 @@ lang:                  en
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Tami Bar
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:            "👉 💡"
+description:            "👉  💡"
 #description:           >
 #  Generic Description
   
