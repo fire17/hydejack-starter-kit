@@ -3,10 +3,10 @@ layout: page
 image: /assets/icons/icon@3x.png
 description: >
   Contact Page
-hide_description: false
+hide_description: true
 ---
 
-# ☀&#xFE0E; Get in touch 💜
+# Get in touch 💜&#xFE0E;
 
 <style>
   a:google.com {<link type="text/css" rel="stylesheet" href="images.google.com" /> color: #(#000000);}
