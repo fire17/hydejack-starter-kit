@@ -59,8 +59,9 @@ author:
 menu:
 #  - title:             "👉 💡"
 #    url:               /index.html
-  - title:             "Contact"
-    url:               /example/
+  - title:             "Contact*"
+    url:               /contact
+#    url:               /example/
   - title:             "◦ ånändâ projects ◦"
     url:               /docs/
   - title:             About
