@@ -1,5 +1,5 @@
 ---
-layout: contact
+layout: webpage
 image: /assets/icons/icon@3x.png
 description: >
   Contact Page
