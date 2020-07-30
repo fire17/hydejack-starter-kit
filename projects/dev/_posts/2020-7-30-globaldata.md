@@ -3,7 +3,7 @@ layout: post
 title: GlobalData + XObject
 description: >
   Highest level environment imaginable 
-sitemap: false
+sitemap: true
 ---
 
 
