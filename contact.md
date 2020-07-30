@@ -6,7 +6,7 @@ description: >
 hide_description: false
 ---
 
-# ☀ &#9728; Get in touch 💜
+# ☀\00FE0E Get in touch 💜
 
 <style>
   a:google.com {<link type="text/css" rel="stylesheet" href="images.google.com" /> color: #(#000000);}
