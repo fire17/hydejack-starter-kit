@@ -34,8 +34,7 @@ description:           >
 #  - tagline:             "Example2"
   
 tagline:                >
-  "Freelancer : Maker : Human  "
-  " 👉 💡 "
+  "Freelancer : Maker : Human       👉 💡 "
 #tagline:               "Freelancer : Maker : Human  "
 
 
@@ -58,7 +57,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             "👉 💡"
-  - url:             "/"
+  - url:             "/index/"
   - title:             "Contact"
     url:               /example/
   - title:             "◦ ånändâ projects ◦"
