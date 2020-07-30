@@ -35,7 +35,7 @@ description:            "👉 💡"
 #  - tagline:             "Example2"
   
 tagline:                >
-  "Freelancer : Maker : Human⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀👉 💡 "
+  "Freelancer : Maker : Human ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ 👉 💡 
 #tagline:               "Freelancer : Maker : Human  "
 
 
@@ -58,13 +58,13 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             "👉 💡"
-  - url:             "/index.html"
+    url:               /index.html
   - title:             "Contact"
     url:               /example/
   - title:             "◦ ånändâ projects ◦"
     url:               /docs/
   - title:             About
-    url:              /about/
+    url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
