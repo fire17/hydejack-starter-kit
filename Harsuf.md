@@ -6,4 +6,4 @@ description: >
 hide_description: false
 sitemap: false
 ---
-# Come visit here Gan Adinut, in Harsuf
+# Come visit גן עדינות, [here](https://maps.app.goo.gl/N4Xnv3K1d21sNoth6) in Harsuf
