@@ -6,7 +6,7 @@ description: >
 hide_description: false
 sitemap: false
 ---
-# Congradulations, [Continue](wa.me/972972547932000?text=%F0%9F%90%87)
+# Congradulations, [Continue](//wa.me/972972547932000?text=%F0%9F%90%87){:target="_blank"}
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
