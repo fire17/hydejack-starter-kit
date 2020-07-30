@@ -1,17 +1,12 @@
 ---
 layout: about
-image: /assets/img/blog/hydejack-9.jpg
+image: /assets/icons/icon@3x.png
 description: >
   Abouttt
 hide_description: true
 redirect_from:
   - /download/
 ---
-
-<p><object data="https://www.google.com&output=embed" width="1000" height="1000">
-    <embed src="https://www.google.com&output=embed" width="1000" height="1000" /> 
-    Error: Embedded data could not be displayed.</object></p>
-
 # About
 
 <!--author-->
