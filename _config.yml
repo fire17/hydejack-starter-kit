@@ -57,7 +57,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             "👉 💡"
-#  - title:             ""
+  - url:             "/"
   - title:             "Contact"
     url:               /example/
   - title:             "◦ ånändâ projects ◦"
