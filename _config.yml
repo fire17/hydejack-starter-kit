@@ -23,10 +23,11 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Tami Bar
+title:                 Tami Bar PO
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Generic Description
+description:            "👉 💡"
+#description:           >
+#  Generic Description
   
 # A shorter description for the sidebar.
 #menu:
@@ -34,7 +35,7 @@ description:           >
 #  - tagline:             "Example2"
   
 tagline:                >
-  "Freelancer : Maker : Human‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎‎👉 💡 "
+  "Freelancer : Maker : Human⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀👉 💡 "
 #tagline:               "Freelancer : Maker : Human  "
 
 
@@ -57,7 +58,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             "👉 💡"
-  - url:             "/index/"
+  - url:             "/index.html"
   - title:             "Contact"
     url:               /example/
   - title:             "◦ ånändâ projects ◦"
