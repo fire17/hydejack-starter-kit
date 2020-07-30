@@ -3,9 +3,10 @@ layout: page
 title: 🐇︎
 description: >
   Here you should be able to find everything
-hide_description: true
+hide_description: false
 sitemap: false
 ---
+# Congradulations, soon will follow shortly
 
 Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
