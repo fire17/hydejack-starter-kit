@@ -1,12 +1,11 @@
 ---
-layout: webpage
+layout: page
 image: /assets/icons/icon@3x.png
 description: >
   Contact Page
 hide_description: false
-redirect_from:
-  - /download/
 ---
+
 # ☀&#xFE0E; Get in touch 💜
 
 <style>
