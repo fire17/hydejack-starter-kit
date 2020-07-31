@@ -24,7 +24,7 @@ lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 AkeyO
-short_title:           AkeyO
+short_title:           AkeyO!
 
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:            "👉 💡"
@@ -66,7 +66,7 @@ menu:
 #  - title:             "👉 💡"
 #    url:               /index.html
   - title:             "Contact*"
-    url:               http://akeyo.io/tami
+    url:               'http://akeyo.io/tami'
 #    url:               /example/
   - title:             "◦ ånändâ projects ◦"
     url:               /docs/
