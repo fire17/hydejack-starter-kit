@@ -30,9 +30,9 @@ description:            "👉 💡"
 #  Generic Description
   
 # A shorter description for the sidebar.
-#menu:
-#  - tagline:             "Example"
-#  - tagline:             "Example2"
+menu:
+ - tagline:             "one"
+ - tagline:             "ttwwoo"
   
 tagline:                >
   **Alpha to Omega**
