@@ -6,12 +6,12 @@ description: >
 hide_description: true
 ---
 
-# Get in touch 💜&#xFE0E;
-# Become an Alpha! 💜&#xFE0E;
+# Get in touch! 💜&#xFE0E;
+
 
 <!--author-->
 <br/>
-
+# Become an Alpha! 💜&#xFE0E;
 ## Thanks for reaching out :)
 #### please feel free to contact me on:
 * [**whatsapp**](//rebrand.ly/contact/tami){:target="_blank"}<br/>
