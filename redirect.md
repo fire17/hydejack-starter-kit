@@ -4,5 +4,7 @@ title: AkeyO
 description: >
   Contact Page
 hide_description: true
-redirect: //google.com
 ---
+
+<meta http-equiv="Refresh" content="0; url=https://google.com" />
+
