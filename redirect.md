@@ -4,5 +4,5 @@ title: AkeyO
 description: >
   Contact Page
 hide_description: true
-redirect: https://akeyo.io
+redirect: https://akeyo.io/projects/
 ---
