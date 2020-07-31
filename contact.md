@@ -7,6 +7,7 @@ hide_description: true
 ---
 
 # Get in touch 💜&#xFE0E;
+# Become an Alpha! 💜&#xFE0E;
 
 <!--author-->
 <br/>
