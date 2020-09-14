@@ -6,23 +6,15 @@ description: >
 sitemap: true
 ---
 
-# AkeyO
-## Alpha To Omega
 
-#### Let the market know what you want
-AkeyO is an app that will let you order anything you want and let the market haggle over you.
-You type what you want, for example: akeyo pizza.
-All the pizza providers in your area will be notified of your intension to buy,
-Sending you their live offer.
+## GlobalData + XObject
 
-
-
-
-
-
+!!!
 
 GlobalData allowes an easy way to pass data in realtime between processes.
 Each process can subscribe to channels; Processes with shared channels can pass data between them.
+
+## Multi-Processing in python done right!
 
 XObject makes a dynamic expando object in python that is built uppon global data.
 These xobjects are global accross multi processes.
