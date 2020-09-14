@@ -6,7 +6,7 @@ description: >
 sitemap: true
 ---
 
-## Proper multi processing in python
+## Multi-Processing in python done right!
 
 
 GlobalData allowes an easy way to pass data in realtime between processes.
@@ -21,6 +21,10 @@ Every channel has 2 files saved for them:
 
 Everytime data is updated in the channel, the process updated the flag aswell
 and all the other processes will pickup on that change.
+
+Each process can access the data in a lazy way whenever it needs to,
+or be set to trigger everytime a channel (or xobject is updated)
+
 
 
 
