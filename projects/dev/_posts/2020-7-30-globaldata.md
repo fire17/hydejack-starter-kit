@@ -5,12 +5,10 @@ description: >
   Multi-Processing in python done right!
 sitemap: true
 ---
-
 ## GlobalData + XObject
-
 ## XObject
 XObject makes a dynamic expando object in python that is built uppon global data.
-It can hold it's own value, and also hold child xobjects
+It can hold it's own value, and also hold child xobjects.
 These xobjects are global accross all processes, autosaved, and super easy to create with xo. generator
 
 >
