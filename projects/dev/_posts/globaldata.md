@@ -9,6 +9,7 @@ sitemap: true
 ## GlobalData + XObject
 ## Multi-Processing in python done right!
 
+!!!
 
 GlobalData allowes an easy way to pass data in realtime between processes.
 Each process can subscribe to channels; Processes with shared channels can pass data between them.
