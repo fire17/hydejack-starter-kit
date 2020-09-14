@@ -1,13 +1,18 @@
-# The primary author of this blog.
+﻿# The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
-author1:
-  name:              <firstname> <lastname>
-  email:             <mail@domain.tld>
+tami:
+  name:              <tami> <bar>
+  email:             <tami@akeyo.io>
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
+
+	In the hope to make this world a better place, we ask ourselves what should we do ?
+	With the right set of tools and good people to support eachother we can achieve incredible things
+	Let us work together, reach out, maybe something great will happen :)
+
     Lorem ipsum dolor sit amet, consectetur adipiscing elit,
     sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
     Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
