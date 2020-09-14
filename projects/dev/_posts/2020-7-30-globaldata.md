@@ -7,20 +7,20 @@ sitemap: true
 ---
 ## GlobalData + XObject
 ## XObject
-XObject makes a dynamic expando object in python that is built uppon global data.
-It can hold it's own value, and also hold child xobjects.
+XObject makes a dynamic expando object in python that is built upon globaldata.
+It can hold its own value, and also hold child xobjects.
 These xobjects are global accross all processes, autosaved, and super easy to create with xo. generator
 
 >
     from gd import * 
     newX = xo.newX                        # xo.newX is now shared across all processes
-    newX.body.head.eyes = "beautifull"
+    newX.body.head.eyes = "beautiful"
 
     # xo.newX.show() outputs from any process
     newX = [None]
         body = [None]
             head = [None]
-                eyes = ['beautifull']
+                eyes = ['beautiful']
 
 
 
