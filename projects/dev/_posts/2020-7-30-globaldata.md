@@ -32,7 +32,14 @@ These xobjects are global accross multi processes, autosaved, and super easy to 
 
 >
     newX = xo.newX # xo.newX is now shared across all processes
-    newX.body.head.eyes = "beautifull' # all accessible 
+    newX.body.head.eyes = "beautifull" # all accessible 
+
+    # newX.show() outputs
+    newX = [None]
+        body = [None]
+            head = [None]
+                eyes = ['beautifull']
+
 
 
 
